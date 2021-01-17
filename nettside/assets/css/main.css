@@ -2616,8 +2616,6 @@ input, select, textarea {
 					left: 0;
 					width: 100%;
 					height: 100%;
-					opacity: 1.0;
-
 				}
 
 				.tiles article > .image:after {
@@ -2633,7 +2631,6 @@ input, select, textarea {
 					left: 0;
 					width: 100%;
 					height: 100%;
-
 				}
 
 			.tiles article > a {
